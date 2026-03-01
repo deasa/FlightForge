@@ -1,0 +1,5 @@
+{
+  "name": "FlightForge",
+  "description": "A personal disc golf tracking app with power profile and bag recommendations.",
+  "requestFramePermissions": []
+}
